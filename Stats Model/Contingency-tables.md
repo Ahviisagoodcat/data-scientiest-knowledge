@@ -19,17 +19,17 @@ Analysis a 2x2 contingent table with counts below:
 
 prob that a signle event occurs with no regard to other events in the table (prob do not depend on the condition of another outcome).
 
-P(female)=A+B/(A+B+C+D)
-P(Yes)=A+C/(A+B+C+D)
+   - P(female)=A+B/(A+B+C+D)
+   - P(Yes)=A+C/(A+B+C+D)
 
-  - column/row margrginal prob sum to 1.
+   - column/row marginal prob sum to 1.
 
 - Conditional prob:
 
 The prob that an event occurs given that another event has occured. 
 
-  - ex: given a gender is female, what is the the prob she is sick? P(Y|F)=A/(A+B) %
-  - ex: given a yes, what is the prob that is the male? P(M|Y)=C/(A+C) %
+   - ex: given a gender is female, what is the the prob she is sick? P(Y|F)=A/(A+B) %
+   - ex: given a yes, what is the prob that is the male? P(M|Y)=C/(A+C) %
 
 
 
