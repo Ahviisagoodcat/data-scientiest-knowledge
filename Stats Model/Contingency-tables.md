@@ -9,13 +9,13 @@ Analysis a 2x2 contingent table with counts below:
 | Total         | A+C           | B+D   |A+C+B+D|
 
 ## Three probs:
-- Joint probabilities: the prob events occur together
+### Joint probabilities: the prob events occur together
 
   - example: what is a joint probablit of disease diagnosed by a female? A/(A+B+C+D) %
   - formula: P(F inter Y)=count in (F,Y) / grand total
   - the sum of joint probablities for the entire table sum to 1.
 
-- Marginal prob:
+### Marginal prob:
 
 prob that a signle event occurs with no regard to other events in the table (prob do not depend on the condition of another outcome).
 
@@ -24,7 +24,7 @@ prob that a signle event occurs with no regard to other events in the table (pro
 
    - column/row marginal prob sum to 1.
 
-- Conditional prob:
+### Conditional prob:
 
 The prob that an event occurs given that another event has occured. 
 
